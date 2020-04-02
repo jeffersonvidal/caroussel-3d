@@ -10,13 +10,10 @@
 
 <p align="center">
 
-[![GitHub issues](https://img.shields.io/github/issues/jeffersonvidal/caroussel-3d)](https://github.com/jeffersonvidal/caroussel-3d/issues)
-
-[![GitHub forks](https://img.shields.io/github/forks/jeffersonvidal/caroussel-3d)](https://github.com/jeffersonvidal/caroussel-3d/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/jeffersonvidal/caroussel-3d)](https://github.com/jeffersonvidal/caroussel-3d/stargazers)
-
-[![GitHub license](https://img.shields.io/github/license/jeffersonvidal/caroussel-3d)](https://github.com/jeffersonvidal/caroussel-3d)
+  <a href="https://github.com/jeffersonvidal/caroussel-3d/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffersonvidal/caroussel-3d"></a>
+  <a href="https://github.com/jeffersonvidal/caroussel-3d/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/jeffersonvidal/caroussel-3d"></a>
+  <a href="https://github.com/jeffersonvidal/caroussel-3d/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/jeffersonvidal/caroussel-3d"></a>
+  <a href="https://github.com/jeffersonvidal/caroussel-3d" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/jeffersonvidal/caroussel-3d"></a>
 
 </p>
 
@@ -54,4 +51,4 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 
 ---
 
-Made by :blue_heart: by [Jefferson Vidal](https://github.com/jeffersonvidal)
+Made by :blue_heart: [Jefferson Vidal](https://github.com/jeffersonvidal)
