@@ -14,16 +14,16 @@
     <img alt="Made by Jefferson Vidal" src="https://img.shields.io/badge/made%20by-jeffersonvidal-informational">
   </a>
 
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/jeffersonvidal/foodfy">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/jeffersonvidal/foodfy">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeffersonvidal/foodfy">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/jeffersonvidal/caroussel-3d">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/jeffersonvidal/caroussel-3d">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeffersonvidal/caroussel-3d">
   <a href="https://github.com/jeffersonvidal/foodfy/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jeffersonvidal/foodfy">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jeffersonvidal/caroussel-3d">
   </a>
 
-  <a href="https://github.com/jeffersonvidal/caroussel-3d/issues" target="_blank><img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffersonvidal/caroussel-3d"></a>
-  <a href="https://github.com/jeffersonvidal/caroussel-3d/network" target="_blank><img alt="GitHub forks" src="https://img.shields.io/github/forks/jeffersonvidal/caroussel-3d"></a>
-  <a href="https://github.com/jeffersonvidal/caroussel-3d/stargazers" target="_blank><img alt="GitHub stars" src="https://img.shields.io/github/stars/jeffersonvidal/caroussel-3d"></a>
+  <a href="https://github.com/jeffersonvidal/caroussel-3d/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffersonvidal/caroussel-3d"></a>
+  <a href="https://github.com/jeffersonvidal/caroussel-3d/network" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/jeffersonvidal/caroussel-3d"></a>
+  <a href="https://github.com/jeffersonvidal/caroussel-3d/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/jeffersonvidal/caroussel-3d"></a>
   <a href="https://github.com/jeffersonvidal/caroussel-3d" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/jeffersonvidal/caroussel-3d"></a>
 
 </p>
