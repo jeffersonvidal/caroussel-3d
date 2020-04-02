@@ -20,6 +20,9 @@
   <a href="https://github.com/jeffersonvidal/foodfy/commits/master">
     <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jeffersonvidal/caroussel-3d">
   </a>
+</p>
+
+<p align="center">
 
   <a href="https://github.com/jeffersonvidal/caroussel-3d/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffersonvidal/caroussel-3d"></a>
   <a href="https://github.com/jeffersonvidal/caroussel-3d/network" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/jeffersonvidal/caroussel-3d"></a>
